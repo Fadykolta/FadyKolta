@@ -10,10 +10,7 @@
 
 ### Connect with me:
 
-<!-- [<img align="left" alt="johnydev.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-<!-- [<img align="left" alt="youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-[<img align="left" alt="linkedin | LinkedIn"
-[<img align="left" alt="instagram | Instagram" 
+
 
 <br />
 
