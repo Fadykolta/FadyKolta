@@ -1,4 +1,4 @@
-### Hi there, I'm Fady - [FadyKolta] 👋
+### Hi there, I'm Fady - [Freedy.K] 👋
 
 ## I'm a DevOps Engineer!!
 
