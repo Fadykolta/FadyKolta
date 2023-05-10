@@ -3,6 +3,7 @@
 ## I'm a DevOps Engineer!!
 
 - 🌱 I’m currently learning everything 🤣
+- 🧑‍🏫 I teach and mentor junior DevOps engineers.
 -  I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Jump to the next level DevSecOps & SRE
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
